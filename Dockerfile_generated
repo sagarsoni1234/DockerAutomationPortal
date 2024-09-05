@@ -1,0 +1,6 @@
+FROM a
+WORKDIR a
+CMD aaa
+ENTRYPOINT aaa
+ENV aaa
+EXPOSE a
